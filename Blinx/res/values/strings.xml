@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Blinx</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="welcometoblinx">Welcome To Blinx</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="thisisimage">This is Image</string>
+    <string name="logoname">Blinx Logo</string>
+     <string name="home">This is Your Home Page</string>
+
+</resources>
